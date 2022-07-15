@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif?cid=6c09b9527c4c3c484ba2b3d28270c811bab6a90cb4834a5f&rid=giphy.gif&ct=s">
 
 
-- 🌱 I’m currently learning **Type Script**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **React, JavaScript, PERN**
 
