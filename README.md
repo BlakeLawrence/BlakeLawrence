@@ -22,7 +22,7 @@
 <p align="left">
 
 <a href="https://twitter.com/be_lah_kay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="be_lah_kay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/blake-lawrence83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/blake-lawrence83/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/blake-lawrence83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blake-lawrence83/" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
