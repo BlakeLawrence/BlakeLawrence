@@ -11,10 +11,6 @@
 
 
 
-- 📫 How to reach me **blake-lawrence@hotmail.co.uk**
-
-- ⚡ Fun fact **I love music and am a passionate home cook**
-<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
