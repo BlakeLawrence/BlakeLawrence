@@ -4,7 +4,7 @@
 <h3 align="center">An aspiring full-stack developer from London</h3>
 </br>
 
-I recently graduated as a junior full stack developer from School of Code as part of cohort 12 and on this amazing 16 week journey, we learnt JavaScript, React, Node, Express, PostgreSQL and many other great tools and technologies.
+I recently graduated as a junior full stack developer from School of Code as part of cohort 12 (Aug '22) and on this amazing 16 week journey, we learnt JavaScript, React, Node, Express, PostgreSQL and many other great tools and technologies.
 
 I am currently embarking on my first steps into Open Source contribution as I feel this will be an amazing opportunity to keep my skillset and workflow skills sharp as well as contribute to the community while receiving further invaluable experience and real-world feedback.
 
