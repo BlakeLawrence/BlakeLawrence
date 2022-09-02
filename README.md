@@ -4,7 +4,12 @@
 <h3 align="center">An aspiring full-stack developer from London</h3>
 </br>
 
-I recently graduated as part of School of Code's cohort 12 and am now keeping my skills sharp by practicing existing skills and learning new technologies.
+I recently graduated as a junior full stack developer from School of Code as part of cohort 12 and on this amazing 16 week journey, we learnt JavaScript, React, Node, Express, PostgreSQL and many other great tools and technologies.
+
+I am currently embarking on my first steps into Open Source contribution as I feel this will be an amazing opportunity to keep my skillset and workflow skills sharp as well as contribute to the community while receiving further invaluable experience and real-workd feedback.
+
+I have also started a Python Course on Front-End Masters as I do tend to enjoy the back end a little more than the front end and want to look at ways to expand my skillset in this area.
+
 
 Outside of coding, my interests are music (listening and playing), Outdoor activities and Cooking.
 
