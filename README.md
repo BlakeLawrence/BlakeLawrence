@@ -8,10 +8,10 @@ I recently graduated as a junior full stack developer from School of Code as par
 
 I am currently embarking on my first steps into Open Source contribution as I feel this will be an amazing opportunity to keep my skillset and workflow skills sharp as well as contribute to the community while receiving further invaluable experience and real-world feedback.
 
-I have also started a Python Course on Front-End Masters to further my skillset.
+I have also started a Java Course on Front-End Masters to furtehr my skillset.
 
 
-Outside of coding, my interests are music (listening and playing), Outdoor activities and Cooking.
+Outside of coding, one of my biggest passions is music (listening and playing), Outdoor activities (I grew up near the ocean and love fishing, spearfishing and scuba diving) and then there's Cooking, I LOVE exploring different flavour combinations and am a huge foodie (My family and friends love me for it)
 
 </br>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif?cid=6c09b9527c4c3c484ba2b3d28270c811bab6a90cb4834a5f&rid=giphy.gif&ct=s">
