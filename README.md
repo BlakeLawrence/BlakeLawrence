@@ -8,8 +8,6 @@ I recently graduated as a junior full stack developer from School of Code as par
 
 I am currently embarking on my first steps into Open Source contribution as I feel this will be an amazing opportunity to keep my skillset and workflow skills sharp as well as contribute to the community while receiving further invaluable experience and real-world feedback.
 
-I have also started a Java Course on Front-End Masters to further my skillset.
-
 
 Outside of coding, one of my biggest passions is music (listening and playing), Outdoor activities (I grew up near the ocean and love fishing, spearfishing and scuba diving) and then there's Cooking, I LOVE exploring different flavour combinations and am a huge foodie (My family and friends love me for it)
 
