@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Blake</h1>
 <h3 align="center">An aspiring full-stack developer from London</h3>
+
 </br>
+
 My previous background was in Live events but I found a much stronger passion in Software Engineering and so I made the decision to leave that all behind in pursuit of a career in development.
 
 I recently graduated as a junior full stack developer from School of Code as part of cohort 12 (Aug '22) and on this amazing 16 week journey, we learnt JavaScript, React, Node, Express, PostgreSQL and many other great tools and technologies.
