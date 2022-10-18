@@ -5,13 +5,13 @@
 
 </br>
 
-My previous background was in Live events but I found a much stronger passion in Software Engineering and so I made the decision to leave that all behind in pursuit of a career in development.
+My previous background was in Live events but I found a stronger passion in Software Engineering and so I made the decision to leave that all behind in pursuit of a career in development.
 
 I recently graduated as a junior full stack developer from School of Code as part of cohort 12 (Aug '22) and on this amazing 16 week journey, we learnt JavaScript, React, Node, Express, PostgreSQL and many other great tools and technologies.
 
-I am currently honing in on and sharpening my skills in JavaScript and React as well as Node and Express and building projects that I enjoy to help me become better at my craft. I am also curious to start looking into other technologies to broaden my horizon.
+I am currently honing in on and sharpening my skills in JavaScript and React as well as Node and Express and building projects that I enjoy to help me become better at my craft. I am also curious to start looking into other technologies such as AWS's cloud computing to broaden my skillset.
 
-Outside of coding I enjoy Music, the outdoors and cooking. 
+Outside of coding, I love Music (playing and listening), the outdoors and cooking. 
 
 </br>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif?cid=6c09b9527c4c3c484ba2b3d28270c811bab6a90cb4834a5f&rid=giphy.gif&ct=s">
