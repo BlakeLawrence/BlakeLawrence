@@ -5,11 +5,11 @@
 
 </br>
 
-My previous background was in Live events but I found a stronger passion in Software Engineering and so I made the decision to pursue a career in Softare Development.
+I am a career changer who had a background in Live events but I found a stronger passion in Software Engineering and so I made the decision to pursue it as a career.
 
-I recently graduated as a junior full stack developer from School of Code as part of cohort 12 (Aug '22) and on this amazing 16 week journey, we learnt JavaScript, React, Node, Express, PostgreSQL and many other great tools and technologies.
+I recently graduated as a Full Stack Developer from School of Code as part of cohort 12 (Aug '22) where we learnt JavaScript, React, NextJS, NodeJS, ExpressJS, PostgreSQL and many other great tools and technologies.
 
-I am currently honing in on and sharpening my skills in JavaScript and React as well as Node and Express and building projects that I enjoy to help me become better at my craft. I am also curious to start looking into other technologies such as AWS's cloud computing to broaden my skillset.
+Besides keeping my JS and React skills sharp, I am currently working through the AWS Cloud practitoner course to broaden my skillset.
 
 Outside of coding, I love Music (playing and listening), the outdoors and cooking. 
 
