@@ -9,8 +9,6 @@ I am a career changer who had a background in Live events but I found a stronger
 
 I recently graduated as a Full Stack Developer from School of Code as part of cohort 12 (Aug '22) where we learnt JavaScript, React, NextJS, NodeJS, ExpressJS, PostgreSQL and many other great tools and technologies.
 
-Besides keeping my JS and React skills sharp, I am currently working through the AWS Cloud practitoner course to broaden my skillset.
-
 Outside of coding, I love Music (playing and listening), the outdoors and cooking. 
 
 </br>
