@@ -5,13 +5,13 @@
 
 </br>
 
-I am a career changer who had a background in Live events but I found a stronger passion in Software Engineering and so I made the decision to pursue it as a career.
+I am a career changer who had a background in Live events as a Technical Manager, but I found a stronger passion in Software Engineering and so I made the decision to pursue it as a career.
 
 I recently graduated as a Full Stack Developer from School of Code as part of cohort 12 (Aug '22) where we learnt JavaScript, React, NextJS, NodeJS, ExpressJS, PostgreSQL and many other great tools and technologies.
 
-Outside of coding, I love Music (playing and listening), the outdoors and cooking. 
+Outside of coding, I love Music, the outdoors and cooking. 
 
-Feel free to get in touch!
+Please feel free to get in touch!
 
 </br>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif?cid=6c09b9527c4c3c484ba2b3d28270c811bab6a90cb4834a5f&rid=giphy.gif&ct=s">
