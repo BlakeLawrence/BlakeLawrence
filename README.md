@@ -9,7 +9,9 @@ I am a career changer who had a background in Live events as a Technical Manager
 
 I recently graduated as a Full Stack Developer from School of Code as part of cohort 12 (Aug '22) where we learnt JavaScript, React, NextJS, NodeJS, ExpressJS, PostgreSQL and many other great tools and technologies.
 
-Outside of coding, I love Music, the outdoors and cooking. 
+Currently learning GraphQL and TypeScript
+
+Outside of coding, I love learning new things, the outdoors, music and cooking. 
 
 Please feel free to get in touch!
 
