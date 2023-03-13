@@ -48,6 +48,6 @@ Please feel free to get in touch!
 <p></p>
 <hr>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blakelawrence&" alt="blakelawrence" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blakelawrence&show_icons=true&locale=en" alt="blakelawrence" /></p>
 
+[![Blake's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeLawrence&theme=blue-green)](https://github.com/BlakeLawrence/github-readme-stats)
+[![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeLawrence&theme=blue-green)](https://github.com/BlakeLawrence/github-readme-stats)
