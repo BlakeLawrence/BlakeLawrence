@@ -50,4 +50,4 @@ Please feel free to get in touch!
 </br>
 
 [![Blake's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeLawrence&theme=blue-green)](https://github.com/BlakeLawrence/github-readme-stats)
-[![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeLawrence&theme=blue-green)](https://github.com/BlakeLawrence/github-readme-stats)
+
