@@ -11,6 +11,8 @@ I recently graduated as a Full Stack Developer from School of Code as part of co
 
 Outside of coding, I love learning new things, the outdoors, music and cooking. 
 
+Currently exploring and loving open source and making small contributions where I can.
+
 Please feel free to get in touch!
 
 </br>
