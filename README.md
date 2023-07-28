@@ -9,7 +9,10 @@ A career changer who had a background in Live events but I found a stronger pass
 
 Graduated as a Full Stack Developer from School of Code in August '22 (JS, React, Node, PostgreSQL, TDD)
 
-Currently exploring and loving open source and making small contributions wherever I can.
+Currently exploring and loving open source and making small contributions wherever I can:
+
+![image](https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/f13a280d-3e85-4aaa-9488-3e96e6a4ea15)
+
 
 
 </br>
