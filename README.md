@@ -1,7 +1,6 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
 <h1 align="center">Hi 👋, I'm Blake!</h1>
-<h3 align="center">An aspiring full-stack developer from London</h3>
 
 </br>
 
@@ -10,6 +9,7 @@ A career changer who had a background in Live events but I found a stronger pass
 Graduated as a Full Stack Developer from School of Code in August '22 (JS, React, Node, PostgreSQL, TDD)
 
 Currently exploring and loving open source and making small contributions wherever I can:
+
 
 ![image](https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/f13a280d-3e85-4aaa-9488-3e96e6a4ea15)
 
