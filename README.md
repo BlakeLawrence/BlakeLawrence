@@ -7,8 +7,6 @@ A career changer who had a background in Live events but fell in love with Softw
 
 I graduated as a Full Stack Developer from School of Code in August '22 (JS, React, Node, PostgreSQL, TDD).
 
-Currently learning Python 🐍 and contributing to open soure.
-
 
 ![image](https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/f13a280d-3e85-4aaa-9488-3e96e6a4ea15)
 
