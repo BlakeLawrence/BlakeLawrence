@@ -7,6 +7,7 @@ A career changer who had a background in Live events but fell in love with Softw
 
 I graduated as a Full Stack Developer from School of Code in August '22 (JS, React, Node, PostgreSQL, TDD).
 
+A screen shot below of the open source contributions I made to popular YouTuber "Web Dev Cody's" game, Code-Racer. My first contribution to open source where I gained further experience collaborating withn other developers.
 
 ![image](https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/f13a280d-3e85-4aaa-9488-3e96e6a4ea15)
 
