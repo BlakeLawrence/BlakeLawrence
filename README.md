@@ -1,4 +1,4 @@
-![MasterHead]![image](https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/f13a280d-3e85-4aaa-9488-3e96e6a4ea15)
+
 
 
 Hi, I'm Blake.
