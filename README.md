@@ -1,4 +1,8 @@
-![image](react-bann.jpeg)
+<p align=”center”>
+
+<img width=”200" height=”200" src=”react-bann.jpeg" alt=”my banner”>
+
+</p>
 
 
 Hi, I'm Blake.
