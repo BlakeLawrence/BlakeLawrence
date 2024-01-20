@@ -1,9 +1,5 @@
-<p align=”center”>
 
-<img width="200" height=”200" src="https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/d6f2711c-778b-4c71-b9a9-3131e0007b44" alt="my banner">
-
-</p>
-![react-bann](https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/d6f2711c-778b-4c71-b9a9-3131e0007b44)
+![img](https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/d6f2711c-778b-4c71-b9a9-3131e0007b44)
 
 
 Hi, I'm Blake.
