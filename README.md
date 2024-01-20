@@ -1,13 +1,13 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
 
-Hey There, I'm Blake!
+Hi, I'm Blake.
 
-A career changer who had a background in Live events but fell in love with Software Engineering.
+I am a career changer with a background in Live technical events but have fallen in love with Front end development and am on a mission to turn it into my new career.
 
-I graduated as a Full Stack Developer from School of Code in August '22 (JS, React, Node, PostgreSQL, TDD).
+I attended and graduated as a Full Stack React/Node Developer from School of Code's 4 month full time coding bootcamp in August '22.
 
-A screen shot below of the open source contributions I made to popular YouTuber "Web Dev Cody's" game, Code-Racer. My first contribution to open source where I gained further experience collaborating withn other developers.
+I recently made my first contributions to open source (popular YouTuber Web Dev Cody's game called Code-Racer) where I gained further experience collaborating with other developers. I ahve found the open source coding community in general to be a supportive, collaborative and friendly place and highly recommend it.
 
 ![image](https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/f13a280d-3e85-4aaa-9488-3e96e6a4ea15)
 
