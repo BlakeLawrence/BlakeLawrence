@@ -4,7 +4,7 @@
 
 Hi, I'm Blake.
 
-I am a Front-end developer proficient in building applications and websites with React Js, Next Js, Typescript, Tailwind Css and posses other skills with Git version control, TDD with jest and React Testing Library and have experience working in an Agile environment.
+I am a Front-end developer proficient in building applications and websites with React Js, Next Js, Typescript, Tailwind Css and I posses further crucial developer skills including Git version control, TDD with jest and React Testing Library and have experience working in an Agile environment.
 
 I attended and graduated as a Full Stack React/Node Developer from School of Code's 4 month full time coding bootcamp in August '22.
 
