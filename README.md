@@ -8,7 +8,7 @@ I am a Front-end developer proficient in building applications and websites with
 
 I attended and graduated as a Full Stack React/Node Developer from School of Code's 4 month full time coding bootcamp in August '22.
 
-I recently made my first contributions to open source (popular YouTuber Web Dev Cody's game called Code-Racer) where I gained further experience collaborating with other developers and am exploring further open source opportunities.
+I recently made my first contributions to open source (popular YouTuber Web Dev Cody's game called Code-Racer) where I gained further experience collaborating with other developers.
 
 ![image](https://github.com/BlakeLawrence/BlakeLawrence/assets/68634122/f13a280d-3e85-4aaa-9488-3e96e6a4ea15)
 
